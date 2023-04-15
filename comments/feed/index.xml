@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Baby Ahi	</title>
-	<atom:link href="http://localhost/babyahi/wordpress/comments/feed/?simply_static_page=51" rel="self" type="application/rss+xml" />
-	<link>/website</link>
+	<atom:link href="http://localhost/babyahi/wordpress/comments/feed/?simply_static_page=93" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description></description>
 	<lastBuildDate>Sat, 15 Apr 2023 03:03:14 +0000</lastBuildDate>
 	<sy:updatePeriod>
