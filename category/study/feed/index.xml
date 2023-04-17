@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Baby Ahi</title>
-	<atom:link href="http://localhost/babyahi/wordpress/feed/?simply_static_page=134" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<title>Study &#8211; Baby Ahi</title>
+	<atom:link href="http://localhost/babyahi/wordpress/category/study/feed/?simply_static_page=185" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Sun, 16 Apr 2023 22:40:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>16 April 2023</title>
-		<link>./../2023/04/15/hello-world/index.html</link>
-					<comments>./../2023/04/15/hello-world/index.html#respond</comments>
+		<link>./../../../2023/04/15/hello-world/index.html</link>
+					<comments>./../../../2023/04/15/hello-world/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Ahiさん]]></dc:creator>
 		<pubDate>Sat, 15 Apr 2023 02:33:25 +0000</pubDate>
 				<category><![CDATA[Study]]></category>
-		<guid isPermaLink="false">./../index.html?p=1</guid>
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
 
 					<description><![CDATA[Holy shit how do I say April in Japanese. Did Duolingo fail me. Or did I fail myself.]]></description>
 										<content:encoded><![CDATA[
@@ -60,7 +60,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../2023/04/15/hello-world/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>./../../../2023/04/15/hello-world/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
