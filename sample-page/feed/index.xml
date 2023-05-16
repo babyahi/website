@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
 	>
-
 <channel>
-	<title>漫画 &#8211; Baby Ahi</title>
-	<atom:link href="http://localhost/babyahi/wordpress/category/manga/feed/?simply_static_page=248" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<title>
+	Comments on: Tools	</title>
+	<atom:link href="http://localhost/babyahi/wordpress/sample-page/feed/?simply_static_page=241" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 16 May 2023 18:52:24 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Sun, 16 Apr 2023 22:50:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
