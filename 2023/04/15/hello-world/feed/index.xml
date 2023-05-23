@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: 16 April 2023	</title>
-	<atom:link href="http://localhost/babyahi/wordpress/2023/04/15/hello-world/feed/?simply_static_page=238" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/babyahi/wordpress/2023/04/15/hello-world/feed/?simply_static_page=315" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Mon, 17 Apr 2023 01:31:22 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 </channel>
 </rss>

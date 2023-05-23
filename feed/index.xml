@@ -9,17 +9,184 @@
 
 <channel>
 	<title>Baby Ahi</title>
-	<atom:link href="http://localhost/babyahi/wordpress/feed/?simply_static_page=198" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/babyahi/wordpress/feed/?simply_static_page=272" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Mon, 17 Apr 2023 01:31:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 May 2023 05:29:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
+		<title>2023年05月21日 (日)</title>
+		<link>./../2023/05/22/2023%e5%b9%b405%e6%9c%8821%e6%97%a5-%e6%97%a5/index.html</link>
+		
+		<dc:creator><![CDATA[Ahiさん]]></dc:creator>
+		<pubDate>Mon, 22 May 2023 05:06:05 +0000</pubDate>
+				<category><![CDATA[Study]]></category>
+		<guid isPermaLink="false">./../index.html?p=178</guid>
+
+					<description><![CDATA[Its a new month, you know what that means. A monthly game of &#8230; how do I say this month in Japanese. This time, I figured since April was &#8220;#&#8221;-gatsu, May too would be 05-gatsu. I&#8217;m curious, why are all the Japanese months denoted as Number-Gatsu versus latin/english where the months (not including the -embers) [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Its a new month, you know what that means. A monthly game of &#8230; how do I say this month in Japanese. This time, I figured since April was &#8220;#&#8221;-gatsu, May  too would be 05-gatsu. I&#8217;m curious, why are all the Japanese months denoted as Number-Gatsu versus latin/english where the months (not including the -embers) are named after the Roman gods? </p>
+
+
+
+<div class="wp-block-coblocks-accordion">
+<div class="wp-block-coblocks-accordion-item"><details><summary class="wp-block-coblocks-accordion-item__title">旧暦 きゅうれき</summary><div class="wp-block-coblocks-accordion-item__content">
+<p>The きゅうれき was used between 1868-1912. It&#8217;s denoted as a &#8216;lunar&#8217; calendar. </p>
+
+
+
+<p></p>
+
+
+
+<p><strong>睦月 &#8211; むつき</strong></p>
+
+
+
+<p>睦 intimate, friendly, harmonious</p>
+
+
+
+<p></p>
+
+
+
+<p>如月 &#8211; きさらぎ</p>
+
+
+
+<p>弥生</p>
+
+
+
+<p>卯月</p>
+
+
+
+<p>皐月</p>
+
+
+
+<p>水無月</p>
+
+
+
+<p>文月</p>
+
+
+
+<p>葉月</p>
+
+
+
+<p>長月</p>
+
+
+
+<p>神無月</p>
+
+
+
+<p>霜月</p>
+
+
+
+<p>師走</p>
+</div></details></div>
+
+
+
+<div class="wp-block-coblocks-accordion-item"><details><summary class="wp-block-coblocks-accordion-item__title">Sources</summary><div class="wp-block-coblocks-accordion-item__content">
+<p><a href="https://jisho.org/word/%E6%97%A7%E6%9A%A6">Jisho. 旧暦. Web.</a></p>
+
+
+
+<p><a href="https://ikki-sake.com/japanese-calendar-year-mutsuki-kisaragi-yayoi/">Ikki Sake. Japanese Calendar Year Mutsuki Kisaragi Yayoi. Web. </a></p>
+</div></details></div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">How do I say May</h2>
+
+
+
+<div class="wp-block-coblocks-accordion">
+<div class="wp-block-coblocks-accordion-item"><details><summary class="wp-block-coblocks-accordion-item__title">ごがつ May</summary><div class="wp-block-coblocks-accordion-item__content">
+<p></p>
+</div></details></div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Duolingo</h2>
+
+
+
+<p>Unit 32 &#8211; Express days and times</p>
+
+
+
+<div class="wp-block-coblocks-accordion">
+<div class="wp-block-coblocks-accordion-item"><details><summary class="wp-block-coblocks-accordion-item__title">新しい語句</summary><div class="wp-block-coblocks-accordion-item__content">
+<p>Atarashi Gakkou? No, Atarashi Goku</p>
+
+
+
+<p><strong>多分 &#8211; たぶん</strong></p>
+
+
+
+<p>Probably</p>
+
+
+
+<p>多 many</p>
+
+
+
+<p>Radical &#8211; 夕 &#8211; ゆうべ &#8211; evening</p>
+
+
+
+<p>分 part</p>
+
+
+
+<p>Radical &#8211; 刀 &#8211; かたな &#8211; blade</p>
+
+
+
+<p><strong>引っ越す &#8211; ひっこします</strong></p>
+
+
+
+<p>To move houses</p>
+</div></details></div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>16 April 2023</title>
 		<link>./../2023/04/15/hello-world/index.html</link>
 					<comments>./../2023/04/15/hello-world/index.html#respond</comments>
