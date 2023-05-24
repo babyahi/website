@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Baby Ahi</title>
-	<atom:link href="http://localhost/babyahi/wordpress/feed/?simply_static_page=352" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/babyahi/wordpress/feed/?simply_static_page=512" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Mon, 22 May 2023 05:29:15 +0000</lastBuildDate>

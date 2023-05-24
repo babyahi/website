@@ -9,10 +9,10 @@
 
 <channel>
 	<title>ポッドキャスト &#8211; Baby Ahi</title>
-	<atom:link href="http://localhost/babyahi/wordpress/category/podcast/feed/?simply_static_page=403" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/babyahi/wordpress/category/podcast/feed/?simply_static_page=563" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 23 May 2023 19:34:54 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 May 2023 05:12:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
