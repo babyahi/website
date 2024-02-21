@@ -9,15 +9,15 @@
 
 <channel>
 	<title>漫画 &#8211; Baby Ahi</title>
-	<atom:link href="http://localhost/babyahi/wordpress/category/manga/feed/?simply_static_page=736" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/babyahi/wordpress/category/manga/feed/?simply_static_page=876" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Thu, 25 May 2023 06:47:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Feb 2024 22:15:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>
